@@ -4,7 +4,7 @@ function Home() {
     return (
             <div>
                 <h1>Home</h1>
-                <p>vercel.com/dashboard></p>
+                <p>vercel.com/dashboard</p>
 
                 <Contador/>
             </div>
